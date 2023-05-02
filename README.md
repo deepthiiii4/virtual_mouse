@@ -5,7 +5,7 @@ This Python script uses OpenCV, HandTracking module, and pyautogui library to co
 ## Installation
 Clone this repository to your local machine or download the zip file.
 Install the required libraries by running pip install -r requirements.txt in the command prompt or terminal.
-Run the script using python hand_gesture_mouse_control.py in the command prompt or terminal.
+Run the script using python VirtualMouse.py in the command prompt or terminal.
 ## Usage
 - Run the script.
 - Place your hand in front of the webcam.
