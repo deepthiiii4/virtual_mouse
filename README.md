@@ -18,7 +18,7 @@ This project uses the following libraries:
 - OpenCV
 - Numpy
 - Time
-- HandTracking
+- HandTracking(user defined)
 - PyAutoGUI
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
