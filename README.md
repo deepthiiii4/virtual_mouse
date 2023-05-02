@@ -11,19 +11,12 @@ Run the script.
 Place your hand in front of the webcam.
 Move your forefinger to move the mouse cursor.
 Move your forefinger and middle finger close to perform a click.
-## Parameters
-pTime: Used to calculate frame rate.
-width: Width of Camera.
-height: Height of Camera.
-frameR: Frame Rate.
-smoothening: Smoothening Factor.
-maxHands: Maximum number of hands to be detected. Default is 2.
-screen_width, screen_height: Getting the screen size.
+
 ## Credits
 This project uses the following libraries:
 
-OpenCV
-Numpy
+OpenCV\
+Numpy\
 Time
 HandTracking
 PyAutoGUI
